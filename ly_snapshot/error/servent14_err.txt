@@ -1,0 +1,16 @@
+10:33:52 - new master [14|localhost|1780]
+10:33:59 - dobio sam result od [13|localhost|1770]
+10:34:00 - dobio sam result od [15|localhost|1790]
+10:34:00 - saljem result parentu
+10:34:00 - ALL RESULTS: {9=LYSnapshotResult{serventId=9, recordedAmount=678, giveHistory={8=282, 10=323, 12=262}, getHistory={8=281, 10=0, 12=264}}, 10=LYSnapshotResult{serventId=10, recordedAmount=1614, giveHistory={9=0, 7=0}, getHistory={9=323, 7=291}}, 11=LYSnapshotResult{serventId=11, recordedAmount=984, giveHistory={8=267, 12=294, 15=261}, getHistory={8=257, 12=286, 15=263}}, 12=LYSnapshotResult{serventId=12, recordedAmount=1023, giveHistory={9=264, 11=286, 13=268}, getHistory={9=262, 11=294, 13=285}}, 13=LYSnapshotResult{serventId=13, recordedAmount=701, giveHistory={12=285, 14=282}, getHistory={12=268, 14=0}}, 14=LYSnapshotResult{serventId=14, recordedAmount=1553, giveHistory={13=0, 15=0}, getHistory={13=282, 15=271}}, 15=LYSnapshotResult{serventId=15, recordedAmount=727, giveHistory={14=271, 11=263}, getHistory={14=0, 11=261}}}
+10:34:00 - Already1: [SnapshotInfo[id: 0, 1], SnapshotInfo[id: 6, 1]]
+10:34:00 - Other snapshots: {0=false, 6=false, 10=false}
+10:34:00 - Already2: [SnapshotInfo[id: 0, 1], SnapshotInfo[id: 10, 1], SnapshotInfo[id: 6, 1]]
+10:34:01 - RADIM
+10:34:02 - RADIM
+10:34:02 - ZAVRSIO
+10:34:25 - new master [13|localhost|1770]
+10:34:28 - [15|localhost|1790] HAS PARENT 11 for snapshot SnapshotInfo[id: 0, 2]
+10:34:28 - NOVI SNAPSHOT INFO SnapshotInfo[id: 0, 2]
+10:34:28 - My new children are: []
+10:34:28 - saljem result parentu list sam

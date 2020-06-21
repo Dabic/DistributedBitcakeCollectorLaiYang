@@ -1,0 +1,18 @@
+10:33:52 - new master [10|localhost|1740]
+10:33:54 - [7|localhost|1710] HAS PARENT 2 for snapshot SnapshotInfo[id: 0, 1]
+10:33:54 - NOVI SNAPSHOT INFO SnapshotInfo[id: 0, 1]
+10:33:54 - My new children are: [[9|localhost|1730]]
+10:33:57 - dobio sam result od [9|localhost|1730]
+10:33:57 - saljem result parentu
+10:33:57 - ALL RESULTS: {9=LYSnapshotResult{serventId=9, recordedAmount=678, giveHistory={8=282, 10=323, 12=262}, getHistory={8=281, 10=0, 12=264}}, 10=LYSnapshotResult{serventId=10, recordedAmount=1614, giveHistory={7=0, 9=0}, getHistory={7=291, 9=323}}}
+10:33:57 - Already1: []
+10:33:57 - Other snapshots: {0=false, 6=false, 14=false}
+10:33:57 - Already2: [SnapshotInfo[id: 0, 1], SnapshotInfo[id: 14, 1], SnapshotInfo[id: 6, 1]]
+10:33:58 - RADIM
+10:33:59 - RADIM
+10:34:00 - RADIM
+10:34:01 - RADIM
+10:34:01 - ZAVRSIO
+10:34:21 - new master [7|localhost|1710]
+10:34:32 - dobio sam result od [9|localhost|1730]
+10:34:32 - saljem result parentu

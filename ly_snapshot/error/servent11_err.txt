@@ -1,0 +1,14 @@
+10:33:55 - new master [15|localhost|1790]
+10:33:56 - [12|localhost|1760] HAS PARENT 13 for snapshot SnapshotInfo[id: 14, 1]
+10:33:56 - NOVI SNAPSHOT INFO SnapshotInfo[id: 14, 1]
+10:33:56 - My new children are: [[8|localhost|1720]]
+10:33:57 - [8|localhost|1720] HAS PARENT 6 for snapshot SnapshotInfo[id: 6, 1]
+10:33:57 - NOVI SNAPSHOT INFO SnapshotInfo[id: 6, 1]
+10:33:57 - My new children are: []
+10:33:57 - saljem result parentu list sam
+10:34:24 - new master [8|localhost|1720]
+10:34:26 - [12|localhost|1760] HAS PARENT 9 for snapshot SnapshotInfo[id: 0, 2]
+10:34:26 - NOVI SNAPSHOT INFO SnapshotInfo[id: 0, 2]
+10:34:26 - My new children are: [[15|localhost|1790]]
+10:34:28 - dobio sam result od [15|localhost|1790]
+10:34:28 - saljem result parentu

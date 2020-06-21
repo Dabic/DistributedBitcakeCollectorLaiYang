@@ -1,0 +1,21 @@
+10:33:52 - new master [0|localhost|1100]
+10:33:57 - dobio sam result od [2|localhost|1300]
+10:33:59 - dobio sam result od [1|localhost|1200]
+10:33:59 - saljem result parentu
+10:33:59 - ALL RESULTS: {0=LYSnapshotResult{serventId=0, recordedAmount=1544, giveHistory={1=0, 2=0}, getHistory={1=272, 2=272}}, 1=LYSnapshotResult{serventId=1, recordedAmount=698, giveHistory={0=272, 2=319, 3=265, 4=292}, getHistory={0=0, 2=269, 3=321, 4=256}}, 2=LYSnapshotResult{serventId=2, recordedAmount=782, giveHistory={0=272, 1=269, 7=256}, getHistory={0=0, 1=319, 7=260}}, 4=LYSnapshotResult{serventId=4, recordedAmount=1047, giveHistory={1=256, 7=271}, getHistory={1=292, 7=282}}, 7=LYSnapshotResult{serventId=7, recordedAmount=665, giveHistory={2=260, 10=291, 4=282, 5=279}, getHistory={2=256, 10=0, 4=271, 5=250}}, 9=LYSnapshotResult{serventId=9, recordedAmount=678, giveHistory={8=282, 10=323, 12=262}, getHistory={8=281, 10=0, 12=264}}, 10=LYSnapshotResult{serventId=10, recordedAmount=1614, giveHistory={9=0, 7=0}, getHistory={9=323, 7=291}}}
+10:33:59 - Already1: [SnapshotInfo[id: 14, 1], SnapshotInfo[id: 6, 1]]
+10:33:59 - Other snapshots: {6=false, 10=false, 14=false}
+10:33:59 - Already2: [SnapshotInfo[id: 14, 1], SnapshotInfo[id: 10, 1], SnapshotInfo[id: 6, 1]]
+10:34:00 - RADIM
+10:34:01 - RADIM
+10:34:02 - RADIM
+10:34:02 - ZAVRSIO
+10:34:17 - new master [0|localhost|1100]
+10:34:24 - dobio sam result od [1|localhost|1200]
+10:34:36 - dobio sam result od [2|localhost|1300]
+10:34:36 - saljem result parentu
+10:34:36 - ALL RESULTS: {0=LYSnapshotResult{serventId=0, recordedAmount=2073, giveHistory={1=0, 2=0}, getHistory={1=536, 2=537}}, 1=LYSnapshotResult{serventId=1, recordedAmount=698, giveHistory={0=272, 2=319, 3=265, 4=292}, getHistory={0=0, 2=269, 3=321, 4=256}}, 2=LYSnapshotResult{serventId=2, recordedAmount=274, giveHistory={0=537, 1=528, 7=497}, getHistory={0=0, 1=576, 7=260}}, 3=LYSnapshotResult{serventId=3, recordedAmount=914, giveHistory={1=321, 5=280}, getHistory={1=265, 5=250}}, 4=LYSnapshotResult{serventId=4, recordedAmount=1047, giveHistory={1=256, 7=271}, getHistory={1=292, 7=282}}, 5=LYSnapshotResult{serventId=5, recordedAmount=809, giveHistory={3=250, 6=250, 7=250}, getHistory={3=280, 6=0, 7=279}}, 6=LYSnapshotResult{serventId=6, recordedAmount=1496, giveHistory={8=0, 5=0}, getHistory={8=246, 5=250}}, 7=LYSnapshotResult{serventId=7, recordedAmount=1168, giveHistory={2=260, 10=291, 4=282, 5=279}, getHistory={2=497, 10=0, 4=271, 5=512}}, 8=LYSnapshotResult{serventId=8, recordedAmount=1050, giveHistory={9=281, 11=257, 6=246}, getHistory={9=282, 11=552, 6=0}}, 9=LYSnapshotResult{serventId=9, recordedAmount=918, giveHistory={8=282, 10=323, 12=262}, getHistory={8=281, 10=0, 12=504}}, 10=LYSnapshotResult{serventId=10, recordedAmount=1614, giveHistory={9=0, 7=0}, getHistory={9=323, 7=291}}, 11=LYSnapshotResult{serventId=11, recordedAmount=659, giveHistory={8=552, 12=555, 15=553}, getHistory={8=257, 12=559, 15=503}}, 12=LYSnapshotResult{serventId=12, recordedAmount=482, giveHistory={9=504, 11=559, 13=557}, getHistory={9=262, 11=555, 13=285}}, 13=LYSnapshotResult{serventId=13, recordedAmount=990, giveHistory={12=285, 14=282}, getHistory={12=557, 14=0}}, 14=LYSnapshotResult{serventId=14, recordedAmount=1786, giveHistory={13=0, 15=0}, getHistory={13=282, 15=504}}, 15=LYSnapshotResult{serventId=15, recordedAmount=546, giveHistory={14=504, 11=503}, getHistory={14=0, 11=553}}}
+10:34:36 - Already1: [SnapshotInfo[id: 14, 1], SnapshotInfo[id: 10, 1], SnapshotInfo[id: 6, 1]]
+10:34:36 - Other snapshots: {6=true, 10=true, 14=true}
+10:34:36 - Already2: [SnapshotInfo[id: 14, 1], SnapshotInfo[id: 10, 1], SnapshotInfo[id: 6, 1]]
+10:34:36 - ZAVRSIO
